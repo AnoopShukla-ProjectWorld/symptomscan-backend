@@ -1,0 +1,16 @@
+# D:\HelthPredictionProject\Backend\.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv
+*.egg-info/
+dist/
+build/
+.env
+*.db
+health.db
+.DS_Store

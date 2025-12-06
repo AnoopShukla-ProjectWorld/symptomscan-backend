@@ -1,0 +1,42 @@
+Disease,Medication
+Fungal infection,Antifungal cream; Fluconazole; Itraconazole; Keep area dry and clean
+Allergy,Antihistamines; Cetirizine 10mg; Loratadine; Avoid allergens; Epinephrine for severe cases
+GERD,Omeprazole 20mg; Pantoprazole; Antacids; Ranitidine; Avoid spicy foods
+Chronic cholestasis,Ursodeoxycholic acid; Cholestyramine; Vitamin supplements; Consult hepatologist
+Drug Reaction,Stop the medication; Antihistamines; Corticosteroids; Epinephrine if severe; Immediate medical attention
+Peptic ulcer disease,Proton pump inhibitors; Omeprazole; H. pylori antibiotics; Antacids; Avoid NSAIDs
+AIDS,Antiretroviral therapy (ART); Regular monitoring; Opportunistic infection prevention; Consult specialist
+Diabetes,Metformin; Insulin therapy; Blood sugar monitoring; Lifestyle modifications; Regular check-ups
+Gastroenteritis,Oral rehydration solution; Probiotics; Zinc supplements; Antibiotics if bacterial; Rest
+Bronchial Asthma,Inhalers (Salbutamol); Corticosteroids; Bronchodilators; Avoid triggers; Emergency inhaler always
+Hypertension,ACE inhibitors; Beta blockers; Calcium channel blockers; Diuretics; Lifestyle changes
+Migraine,Pain relievers; Triptans; Anti-nausea medication; Preventive medications; Rest in dark room
+Cervical spondylosis,Pain relievers; Muscle relaxants; Physical therapy; Hot/cold therapy; Neck exercises
+Paralysis (brain hemorrhage),Emergency hospitalization; Blood pressure control; Anticoagulants/antiplatelet; Rehabilitation therapy; Immediate medical care
+Jaundice,Treat underlying cause; Hydration; Vitamin K; Avoid alcohol; Hepatoprotective drugs
+Malaria,Antimalarial drugs; Chloroquine; Artemisinin combination; Paracetamol for fever; Complete course essential
+Chicken pox,Antiviral (Acyclovir); Calamine lotion; Antihistamines for itching; Paracetamol; Keep nails short
+Dengue,Paracetamol only; IV fluids; Platelet monitoring; NO aspirin or ibuprofen; Rest and hydration
+Typhoid,Antibiotics (Ciprofloxacin); Azithromycin; Ceftriaxone; Adequate rest; Complete antibiotic course
+hepatitis A,Supportive care; Rest; Hydration; Vitamin supplements; No specific antiviral; Vaccination prevention
+Hepatitis B,Antiviral medications; Interferon; Tenofovir; Regular monitoring; Vaccination for prevention
+Hepatitis C,Direct-acting antivirals; Sofosbuvir; Ledipasvir; Regular liver monitoring; Treatment for 8-12 weeks
+Hepatitis D,Interferon therapy; Supportive care; Requires Hepatitis B coinfection treatment; Regular monitoring
+Hepatitis E,Supportive care; Rest; Hydration; Ribavirin in severe cases; Usually self-limiting
+Alcoholic hepatitis,Stop alcohol immediately; Corticosteroids; Nutritional support; Liver supplements; Hospitalization if severe
+Tuberculosis,Anti-TB drugs (DOTS); Isoniazid; Rifampicin; Pyrazinamide; Ethambutol; 6-9 months course mandatory
+Common Cold,Paracetamol; Decongestants; Antihistamines; Vitamin C; Throat lozenges; Rest
+Pneumonia,Antibiotics; Amoxicillin; Azithromycin; Oxygen therapy if needed; Rest; Complete course
+Dimorphic hemmorhoids(piles),Stool softeners; Topical creams; Pain relievers; Sitz baths; Fiber supplements; Surgery if severe
+Heart attack,Emergency aspirin; Thrombolytics; Anticoagulants; Beta blockers; ACE inhibitors; Immediate hospitalization
+Varicose veins,Compression stockings; Sclerotherapy; Laser treatment; Elevation of legs; Exercise; Surgery if needed
+Hypothyroidism,Levothyroxine; Regular thyroid monitoring; Lifelong medication; Dose adjustment as needed
+Hyperthyroidism,Anti-thyroid drugs; Methimazole; Propylthiouracil; Beta blockers; Radioactive iodine; Regular monitoring
+Hypoglycemia,Immediate glucose/sugar; Glucagon injection if severe; Frequent small meals; Adjust diabetes medications
+Osteoarthristis,Pain relievers; NSAIDs; Glucosamine; Chondroitin; Physical therapy; Joint injections
+Arthritis,NSAIDs; Disease-modifying drugs; Corticosteroids; Biologics; Physical therapy; Pain management
+(vertigo) Paroymsal  Positional Vertigo,Epley maneuver; Antivertigo medications; Betahistine; Antiemetics; Vestibular exercises
+Acne,Benzoyl peroxide; Retinoids; Antibiotics; Salicylic acid; Isotretinoin for severe cases
+Urinary tract infection,Antibiotics (Nitrofurantoin); Ciprofloxacin; Increased water intake; Cranberry supplements; Pain relievers
+Psoriasis,Topical corticosteroids; Vitamin D analogs; Phototherapy; Methotrexate; Biologics; Moisturizers
+Impetigo,Topical antibiotics; Mupirocin ointment; Oral antibiotics if widespread; Keep area clean; Avoid touching
