@@ -8,4 +8,7 @@ requests==2.31.0
 joblib==1.2.0
 python-dotenv==1.0.0
 Werkzeug==2.3.7
+setuptools>=65.5.0
+wheel>=0.38.0
+
 
